@@ -22,3 +22,5 @@ LinkedIn: https://www.linkedin.com/in/gaiyue-li-6392541aa
 
 ## Notes
 No proprietary project code or screenshots are included. This website is a static presentation of the experience documented in the uploaded CVs.
+
+Updated 28 October 2026: Chengdu employer name updated in both languages and all five downloadable PDFs replaced.
